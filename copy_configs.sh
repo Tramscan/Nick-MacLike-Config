@@ -3,7 +3,6 @@
 cp -r /etc/lightdm /home/nick/gh-configs/root/etc
 cp -r /etc/polybar /home/nick/gh-configs/root/etc
 
-cp -r /usr/share/fonts /home/nick/gh-configs/root/usr/share
 cp -r /usr/share/endeavouros /home/nick/gh-configs/root/usr/share
 cp -r /usr/share/rofi /home/nick/gh-configs/root/usr/share
 cp -r /usr/share/slick-greeter /home/nick/gh-configs/root/usr/share
